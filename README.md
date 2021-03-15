@@ -1,6 +1,6 @@
 # Simple web page
 
-This is base project to start a web development.
+This is base repo to start a web development project.
 
 ```
  ┣ 📂public  
