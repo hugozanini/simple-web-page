@@ -2,6 +2,7 @@
 
 This is base project to start a web development.
 
+```
  ┣ 📂public  
  ┃ ┣ 📜index.html  
  ┣ 📂src  
@@ -10,3 +11,4 @@ This is base project to start a web development.
  ┣ 📜.gitignore
  ┣ 📜package-lock.json
  ┣ 📜package.json
+```
